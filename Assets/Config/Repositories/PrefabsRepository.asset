@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5356bd7e97c64600915fc6f1b5a11b06, type: 3}
+  m_Name: PrefabsRepository
+  m_EditorClassIdentifier: 
+  _prefabDatas:
+  - Name: WeakEnemy
+    Prefab: {fileID: 8642892943280810585, guid: 91155c364f870c143b0b9f55a6d7ed07, type: 3}
+  - Name: NormalEnemy
+    Prefab: {fileID: 8143985511638226255, guid: d21302770b852674192d688e8ab6ac39, type: 3}
+  - Name: StrongEnemy
+    Prefab: {fileID: 2246818654375969791, guid: 159aea3baaeca0c459a2b127b66b7f0c, type: 3}
+  - Name: Player
+    Prefab: {fileID: 5876724497991878604, guid: f862209b6d199774fb2f4d8539277898, type: 3}
